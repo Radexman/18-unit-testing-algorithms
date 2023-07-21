@@ -18,6 +18,7 @@
 	},
 	"homepage": "https://github.com/Radexman/18-unit-testing-algorithms#readme",
 	"devDependencies": {
-		"jest": "^29.6.1"
+		"jest": "^29.6.1",
+		"jest-environment-jsdom": "^29.6.1"
 	}
 }
